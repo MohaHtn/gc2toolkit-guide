@@ -36,6 +36,13 @@ Maintenant que vous avez installé Fiddler, il va falloir le configuer pour qu'i
 Vous devez normalement arriver dans une fenêtre sembable à celle-ci :
 
 ![étape-1](./images/step1.PNG)
+
+Allez ensuite dans **Tools**, puis **Options** :
+
+![étape-2](./images/step2.PNG)
+
+
+
  
  
  
