@@ -63,9 +63,28 @@ Techniquement, cela suffit pour pouvoir écouter toutes les requêtes HTTP de vo
 
 ## Etape 2 : Demander à Fiddler de redigier les requêtes vers gc2toolkit
 
-Très bien ! Maintenant Fiddler est prêt à écouter les moindres connextions de votre appareil !
+Très bien ! Maintenant Fiddler est prêt à écouter les moindres connexions de votre appareil !
 
 Allez maintenant sur l'onglet **AutoResponder** dans le bordel à onglets à droite de la fenêtre, et cochez
 **Enable Rules** et **Accept All CONNECTs**.
 
 ![étape-5](./images/step5.PNG)
+
+Cliquez sur **Add rules**, puis dans le *Rule Editor*, et remplacez le *StringToMatch[1]* qui vient de s'afficher par 
+
+```
+gczero2018.com
+```
+
+et dans l'autre boîte de texte :
+
+```
+localhost
+```
+
+Cliquez ensuite sur **Save**.
+
+Vous devez arriver à ce résultat :
+
+![étape-6](./images/step6.PNG)
+
