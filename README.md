@@ -34,7 +34,7 @@ Fiddler est à installer, mais pas gc2toolkit.
 Maintenant que vous avez installé Fiddler, il va falloir le configuer pour qu'il puisse recevoir les requêtes de votre appareil.
 
 Vous devez normalement arriver dans une fenêtre sembable à celle-ci :
-![étape-1](images/step1.png)
+![étape-1](step1.png)
  
  
  
