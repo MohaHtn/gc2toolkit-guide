@@ -102,16 +102,16 @@ Pour ce guide, on va utiliser mon Oneplus 8T.
 
 Allez dans les paramètres de votre téléphone, puis allez dans les paramètres WIFI.
 
-<img src="./image/step7.jpg" alt="étape-7" width="200"/>
+<img src="./images/step7.jpg" alt="étape-7" width="200"/>
 
 Séléctionnez votre réseau WIFI, plus modifiez-le pour lui ajouter un **proxy manuel**
 
-<img src="./image/step7.jpg" alt="étape-8" width="200"/>
+<img src="./images/step7.jpg" alt="étape-8" width="200"/>
 
 Mettez-y l'adresse IP interne de votre PC, (c'est l'avant-dernière ligne affiché entre tirets dans gc2toolkit,
 moi c'est ```192.168.1.15``` par exemple) ainsi que le port, ```8888``` :
 
-<img src="./image/step9.jpg" alt="étape-9" width="200"/>
+<img src="./images/step9.jpg" alt="étape-9" width="200"/>
 
 
 
