@@ -41,6 +41,10 @@ Allez ensuite dans **Tools**, puis **Options** :
 
 ![étape-2](./images/step2.PNG)
 
+Vous vous retrouvez avec une nouvelle fenêtre. Allez ensuite dans l'onglet **HTTPS** puis cochez **Decrypt HTTPS traffic** (ignorez les message qui arrivent ensuite) :
+
+![étape-3](./images/step3.PNG) 
+
 
 
  
