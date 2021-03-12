@@ -41,11 +41,9 @@ Allez ensuite dans **Tools**, puis **Options** :
 
 ![étape-2](./images/step2.PNG)
 
-Vous vous retrouvez avec une nouvelle fenêtre. Allez ensuite dans l'onglet **HTTPS** puis cochez **Decrypt HTTPS traffic** (ignorez les message qui arrivent ensuite) :
+Vous vous retrouvez avec une nouvelle fenêtre.
 
-![étape-3](./images/step3.PNG) 
-
-Allez ensuite sur l'onglet **Connections** et cochez **Allow remote computers to connect**. 
+Allez sur l'onglet **Connections** et cochez **Allow remote computers to connect**. 
 Ignorez la fenetre d'avertissement qui s'affichera ensuite :
 
 ![étape-4a](./images/step4a.PNG)
