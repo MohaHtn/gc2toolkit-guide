@@ -73,7 +73,7 @@ Allez maintenant sur l'onglet **AutoResponder** dans le bordel à onglets à dro
 Cliquez sur **Add Rule**, puis dans le *Rule Editor*, et remplacez le *StringToMatch[1]* qui vient de s'afficher par 
 
 ```
-gczero2018.com
+gc2018.gczero.com
 ```
 
 et dans l'autre boîte de texte :
@@ -92,11 +92,13 @@ C'est fini pour Fiddler ! owo/
 
 ## Etape 3 : On s'occupe de gc2toolkit !
 
-Lancez gc2toolkit **avec les droits administrateurs*.
+Lancez gc2toolkit **avec les droits administrateurs**.
 
 Le programme devrait afficher :
 
 ![étape-7](./images/step7.PNG)
+
+
 
 
 
