@@ -66,7 +66,7 @@ Techniquement, cela suffit pour pouvoir écouter toutes les requêtes HTTP de vo
 Très bien ! Maintenant Fiddler est prêt à écouter les moindres connexions de votre appareil !
 
 Allez maintenant sur l'onglet **AutoResponder** dans le bordel à onglets à droite de la fenêtre, et cochez
-**Enable Rules** et **Accept All CONNECTs**.
+**Accept All CONNECTs**.
 
 ![étape-5](./images/step5.PNG)
 
@@ -79,7 +79,7 @@ gc2018.gczero.com
 et dans l'autre boîte de texte :
 
 ```
-localhost
+http://ipv4.fiddler/
 ```
 
 Cliquez ensuite sur **Save**.
