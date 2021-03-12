@@ -1,7 +1,7 @@
 # Groove Coaster 2 iOS/Android : Guide pour obtenir toutes les chansons sans jailbeak/root
 
 Voici un petit guide sympa expliquant comment obtenir **toutes** les chansons du jeu,
-sans devoir avoir recourt au jailbreak ou au rootage de l'appareil.
+sans devoir avoir recours au jailbreak ou au rootage de l'appareil.
 
  > **Note** : Des compétences en informatique, disons avancés, sont nécessaires pour mener à bien ces manipulations.
  > Ce guide utilise un exécutable qui met en pratique une attaque [**MTIM**](https://fr.wikipedia.org/wiki/Attaque_de_l%27homme_du_milieu) (Man In The Middle).
