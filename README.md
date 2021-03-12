@@ -58,6 +58,23 @@ et si vous avez en plus un fenêtre du Pare-Feu Windows, autorisez Fiddler.
 
 Redémarrez ensuite Fiddler en le fermant et en l'ouvrant une nouvelle fois pour appliquer les nouvaux paramètres.
 
+Techniquement, cela suffit pour pouvoir écouter toutes les requêtes HTTP de votre appareil, dont les requêtes du jeu également qui sont également en HTTP.
+(ce qui est incroyable d'ailleurs.)
+
+## Etape 2 : Demander à Fiddler de redigier les requêtes vers gc2toolkit
+
+Très bien ! Maintenant Fiddler est prêt à écouter les moindres connextions de votre appareil !
+
+Allez maintenant sur l'onglet **AutoResponder** dans le bordel à onglets à droite de la fenêtre, et cochez
+**Enable Rules** et **Accept All CONNECTs**.
+
+![étape-5](./images/step5.PNG)
+
+
+
+
+
+
 
 
 
