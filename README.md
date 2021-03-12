@@ -101,7 +101,7 @@ moi c'est ```192.168.1.15``` par exemple) ainsi que le port, ```8888``` :
 
 <img src="./images/step9.jpg" alt="étape-9" width="200"/>
 
-N'oubliez pas d'enregistrer ! owo/
+**N'oubliez pas d'enregistrer ! owo/**
 
 ## Etape 4 - Lancez le jeu
 
@@ -121,7 +121,7 @@ Laissez le jeu télécharger ses trucs, ça dure un petit moment.
  
 <div>
 <img src="./images/step11.jpg" alt="étape-11" width="200" align="left"/>
-<center><img src="./images/step12.jpg" alt="étape-12" width="200" align="middle"/></center>
+<img src="./images/step12.jpg" alt="étape-12" width="200" align="center"/>
 <img src="./images/step13.jpg" alt="étape-13" width="200" align="right"/>
 </div>
 
