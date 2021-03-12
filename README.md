@@ -69,16 +69,3 @@ Allez maintenant sur l'onglet **AutoResponder** dans le bordel à onglets à dro
 **Enable Rules** et **Accept All CONNECTs**.
 
 ![étape-5](./images/step5.PNG)
-
-
-
-
-
-
-
-
-
- 
- 
- 
- 
