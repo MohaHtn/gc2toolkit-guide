@@ -70,23 +70,11 @@ Le programme devrait afficher :
 
 ![étape-5](./images/step5.PNG)
 
-Ensuite, tapez la commande :
-
-```
-songcount
-```
-
-puis entrez 700.
+Ensuite, tapez la commande ```songcount```, puis ```700```.
 
 Appuyez sur la touche entrée pour réafficher l'invite de commande.
 
-Ensuite, tapez la commande :
-
-```
-avatercount
-```
-
-puis entrez 120.
+Ensuite, tapez la commande ```avatercount```, puis ```120```.
 
 Vous devez arriver à ce résultat :
 
