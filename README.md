@@ -70,6 +70,49 @@ Le programme devrait afficher :
 
 ![étape-5](./images/step5.PNG)
 
+Ensuite, tapez la commande :
+
+```
+songcount
+```
+
+puis entrez 700.
+
+Appuyez sur la touche entrée pour réafficher l'invite de commande.
+
+Ensuite, tapez la commande :
+
+```
+avatercount
+```
+
+puis entrez 120.
+
+Vous devez arriver à ce résultat :
+
+![étape-6](./images/step6.PNG)
+
+C'est tout !
+
+## Etape 3 - Connecter votre appareil à votre PC !
+
+A partir de là, cette étape différe légèrement de votre appareil iOS ou Android.
+
+Pour ce guide, on va utiliser mon Oneplus 8T.
+
+Allez dans les paramètres de votre téléphone, puis allez dans les paramètres WIFI.
+
+![étape-7](./images/step7.jpg)
+
+Séléctionnez votre réseau WIFI, plus modifiez-le pour lui ajouter un **proxy manuel**
+
+![étape-8](./images/step8.jpg)
+
+Mettez-y l'adresse IP interne de votre PC (c'est l'avant-dernière ligne affiché entre tirets dans gc2toolkit,
+moi c'est ```192.168.1.15``` par exemple) :
+
+![étape-9](./images/step9.jpg)
+
 
 
 
