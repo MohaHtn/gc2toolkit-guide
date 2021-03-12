@@ -108,8 +108,8 @@ Séléctionnez votre réseau WIFI, plus modifiez-le pour lui ajouter un **proxy 
 
 ![étape-8](./images/step8.jpg)
 
-Mettez-y l'adresse IP interne de votre PC (c'est l'avant-dernière ligne affiché entre tirets dans gc2toolkit,
-moi c'est ```192.168.1.15``` par exemple) :
+Mettez-y l'adresse IP interne de votre PC, (c'est l'avant-dernière ligne affiché entre tirets dans gc2toolkit,
+moi c'est ```192.168.1.15``` par exemple) ainsi que le port, ```8888``` :
 
 ![étape-9](./images/step9.jpg)
 
