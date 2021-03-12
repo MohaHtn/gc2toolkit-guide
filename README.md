@@ -122,7 +122,6 @@ Laissez le jeu télécharger ses trucs, ça dure un petit moment.
 <div>
 <img src="./images/step11.jpg" alt="étape-11" width="200" align="left"/>
 <img src="./images/step12.jpg" alt="étape-12" width="200" align="middle"/>
-<img src="./images/step13.jpg" alt="étape-13" width="200" align="right"/>
 </div>
 
 Peu importe, vous pouvez **quitter le jeu desormais** ! 
