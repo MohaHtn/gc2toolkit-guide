@@ -109,10 +109,35 @@ Tout est prêt ! Vous pouvez lancer le jeu que vous avez au préalable installé
 
 Vous devriez voir des choses s'afficher sur gc2toolkit :
 
+![étape-10](./images/step10.PNG)
+
+Si vous voyez ce genre de choses, c'est bon signe ! 
+
+Laissez le jeu télécharger ses trucs, ça dure un petit moment.
+
+ > Si le jeu crashe après la fin du téléchargement, n'hésitez pas à redémarrer le jeu, voire carréement relancer gc2toolkit en n'oubliant pas les commandes ci-haut.
+ 
+ Il se peut que le jeu devienne illisble après ce téléchargement :
+ 
+<img src="./images/step11.jpg" alt="étape-11" width="200"/>
+<img src="./images/step12.jpg" alt="étape-12" width="200"/>
+<img src="./images/step13.jpg" alt="étape-13" width="200"/>
+
+Peu importe, vous pouvez quitter le jeu desormais ! 
+
+Enlevez le proxy que vous avez mis sur votre appareil, et relancez le jeu, il devrait re-télécharger des trucs. (Mais c'est plus rapide cette fois !)
+
+Si vous avez bien fais les choses, vous devez en arrivez là :
+
+<img src="./images/step14.jpg" alt="étape-14" width="200"/>
+
+**Bien joué ! C'est terminé ! Vous avez débloqué toutes les chansons du jeu ! Félicitations ! :D**
 
 
 
 
+ 
+ 
 
 
 
