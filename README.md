@@ -58,45 +58,19 @@ et si vous avez en plus un fenêtre du Pare-Feu Windows, autorisez Fiddler.
 
 Redémarrez ensuite Fiddler en le fermant et en l'ouvrant une nouvelle fois pour appliquer les nouvaux paramètres.
 
-Techniquement, cela suffit pour pouvoir écouter toutes les requêtes HTTP de votre appareil, dont les requêtes du jeu également qui sont également en HTTP.
-(ce qui est incroyable d'ailleurs.)
-
-## Etape 2 : Demander à Fiddler de redigier les requêtes vers gc2toolkit
-
-Très bien ! Maintenant Fiddler est prêt à écouter les moindres connexions de votre appareil !
-
-Allez maintenant sur l'onglet **AutoResponder** dans le bordel à onglets à droite de la fenêtre, et cochez
-**Accept All CONNECTs**.
-
-![étape-5](./images/step5.PNG)
-
-Cliquez sur **Add Rule**, puis dans le *Rule Editor*, et remplacez le *StringToMatch[1]* qui vient de s'afficher par 
-
-```
-gc2018.gczero.com
-```
-
-et dans l'autre boîte de texte :
-
-```
-http://ipv4.fiddler/
-```
-
-Cliquez ensuite sur **Save**.
-
-Vous devez arriver à ce résultat :
-
-![étape-6](./images/step6.PNG)
+Techniquement, cela suffit pour pouvoir écouter toutes les requêtes HTTP de votre appareil, dont les requêtes du jeu.
 
 C'est fini pour Fiddler ! owo/
 
-## Etape 3 : On s'occupe de gc2toolkit !
+## Etape 2 : On s'occupe de gc2toolkit !
 
-Lancez gc2toolkit **avec les droits administrateurs**.
+Tout en laissant Fiddler ouvert, lancez gc2toolkit **avec les droits administrateurs**.
 
 Le programme devrait afficher :
 
-![étape-7](./images/step7.PNG)
+![étape-5](./images/step5.PNG)
+
+
 
 
 
