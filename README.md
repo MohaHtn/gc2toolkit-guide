@@ -45,12 +45,16 @@ Vous vous retrouvez avec une nouvelle fenêtre. Allez ensuite dans l'onglet **HT
 
 ![étape-3](./images/step3.PNG) 
 
-Allez ensuite sur l'onglet **Connections** et cochez **Allow remote computers to connect**. Ignorez la fenetre d'avertissement qui s'affichera ensuite
+Allez ensuite sur l'onglet **Connections** et cochez **Allow remote computers to connect**. 
+Ignorez la fenetre d'avertissement qui s'affichera ensuite
+
+![étape-4b](./images/step4b.PNG)
+
 et si vous avez en plus un fenêtre du Pare-Feu Windows, autorisez Fiddler.
 
 ![étape-4a](./images/step4a.PNG)
 
-![étape-4b](./images/step4b.PNG)
+**Vérifiez que l'option a bien été cochée**.
 
 Redémarrez ensuite Fiddler en le fermant et en l'ouvrant une nouvelle fois.
 
