@@ -1,14 +1,19 @@
-# Groove Coaster 2 iOS/Android : Guide pour obtenir toutes les chansons sans jailbeak/root
+# Groove Coaster 2 Android : Guide pour obtenir toutes les chansons sans root
 
 Voici un petit guide sympa expliquant comment obtenir **toutes** les chansons du jeu,
-sans devoir dépenser des tonnes de thunes ou avoir recourt au jailbreak ou au rootage de l'appareil.
+sans devoir dépenser des tonnes de thunes ou avoir recourt au rootage de l'appareil.
 
- > **Note** : Des compétences en informatique, disons avancés, sont nécessaires pour mener à bien ces manipulations.
+ > **Note** : D'après certains retours, cette méthode ne fonctionne pas sour iOS, désolé. Néanmoins, si vous avez
+ > quand même accès à un appareil sous Android, vous pouvez toujours utiliser ce guide puis créer **un compte 
+ > Taito** dans le jeu après avoir suivi ce guide, sauvgarder vos données sur le cloud du jeu puis restaurer le tout
+ > sur votre appareil iOS.
+
+ > **Autre note** : Des compétences en informatique, disons avancés, sont nécessaires pour mener à bien ces manipulations.
  > Ce guide utilise un exécutable qui met en pratique une attaque [**MTIM**](https://fr.wikipedia.org/wiki/Attaque_de_l%27homme_du_milieu) (Man In The Middle).
  > Ce guide n'a pas pour vocation d'essayer d'entraîner à intercepter des requêtes HTTP. Je rédige ce guide
  > à des fins éducatives et parce que je trouve ça très amusant.
  
- > **Autre note** : N'hésitez **surtout pas** à acheter le jeu sur Nintendo Switch ou Steam. Si vous vous demandez,
+ > **Autre dernière note** : N'hésitez **surtout pas** à acheter le jeu sur Nintendo Switch ou Steam. Si vous vous demandez,
  > je possède déjà le jeu sur ma Switch (bien que je n'ai pas trop le temps d'y jouer en ce moment ...)
  > Ce jeu est très sympa et ce serait vraiment dommage de ne pas soutenir des jeux qui valent vraiment le détour.
  
@@ -16,7 +21,7 @@ sans devoir dépenser des tonnes de thunes ou avoir recourt au jailbreak ou au r
 
 Pour pouvoir commencer, il va vous falloir quelques outils :
 
- * Un appareil sous Android/iOS ('fin pour avoir le jeu quoi)
+ * Un appareil sous **Android**
  * Un PC sous Windows (déso pas déso les autres OS ...) 
  * Un réseau (Celui créé par votre box internet suffira amplement)
  * Deux logiciels : *gc2toolkit.exe*, et *Fiddler Classic* (ou autre programme permettant de rediriger le traffic d'un appareil, faites comme bon vous semble)
