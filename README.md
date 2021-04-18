@@ -5,7 +5,7 @@ sans devoir dépenser des tonnes de thunes ou avoir recourt au rootage de l'appa
 
  > **Note** : D'après certains retours, cette méthode ne fonctionne pas sour iOS, désolé. Néanmoins, si vous avez
  > quand même accès à un appareil sous Android, vous pouvez toujours utiliser ce guide puis créer **un compte 
- > Taito** dans le jeu après avoir suivi ce guide, sauvgarder vos données sur le cloud du jeu puis restaurer le tout
+ > Taito** dans le jeu après avoir suivi ce guide, sauvegarder vos données sur le cloud du jeu puis restaurer le tout
  > sur votre appareil iOS.
 
  > **Autre note** : Des compétences en informatique, disons avancés, sont nécessaires pour mener à bien ces manipulations.
