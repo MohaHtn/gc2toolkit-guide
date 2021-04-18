@@ -53,7 +53,7 @@ Ignorez la fenetre d'avertissement qui s'affichera ensuite :
 
 ![étape-4a](./images/step4a.PNG)
 
-et si vous avez en plus un fenêtre du Pare-Feu Windows, autorisez Fiddler.
+et si vous avez en plus une fenêtre du Pare-Feu Windows, autorisez Fiddler.
 
 **Vérifiez que l'option a bien été cochée** :
 
